@@ -16,6 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Jira](https://img.shields.io/badge/-Jira-563D7C?style=flat-square&logo=Jira)
 <!--
 Here are some ideas to get you started:
 
