@@ -20,6 +20,13 @@
 ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat-square&logo=PHP)
 ![VUE.JS](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-e8392c?style=flat-square&logo=Laravel&logoColor=ffffff)
+
+### 🔗Contact Me
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mostafa.abdeltwab.9/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:mostafa.zayed9990@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/mostafazayed90/)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01029811233)
 <!--
 Here are some ideas to get you started:
 
