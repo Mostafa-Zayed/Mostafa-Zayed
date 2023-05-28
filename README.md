@@ -2,8 +2,8 @@
 
 <br/>
 <br/>
-
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coder GIF" width="380" height="280">
+<!-- https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif -->
+<img align="right" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 
 <h3>🚀 About Me</h3> 
