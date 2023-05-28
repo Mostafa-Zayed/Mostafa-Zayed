@@ -18,7 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Jira](https://img.shields.io/badge/-Jira-563D7C?style=flat-square&logo=Jira)
 ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat-square&logo=PHP)
-![VueJs](https://img.shields.io/badge/-Vue-%23E44D27?style=flat-square&logo=VueJs&logoColor=ffffff)
+![VueJs](https://img.shields.io/badge/-Vue-23E44D27?style=flat-square&logo=VueJs&logoColor=ffffff)
 <!--
 Here are some ideas to get you started:
 
