@@ -3,7 +3,8 @@
 <br/>
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+
+<img align="right" src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
 <!--
