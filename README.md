@@ -19,7 +19,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-563D7C?style=flat-square&logo=Jira)
 ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat-square&logo=PHP)
 ![Vue](https://img.shields.io/badge/-Vue-563D7C?style=flat-square&logo=Vue)
-![Laravel](https://img.shields.io/badge/-Laravel-563D7C?style=flat-square&logo=Laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-e8392c?style=flat-square&logo=Laravel)
 <!--
 Here are some ideas to get you started:
 
