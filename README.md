@@ -18,6 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Jira](https://img.shields.io/badge/-Jira-563D7C?style=flat-square&logo=Jira)
 ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat-square&logo=PHP)
+![MYSQL](https://img.shields.io/badge/-Mysql-563D7C?style=flat-square&logo=Mysql)
 ![VUE.JS](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-e8392c?style=flat-square&logo=Laravel&logoColor=ffffff)
 
