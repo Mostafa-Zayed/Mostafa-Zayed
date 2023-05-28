@@ -2,11 +2,12 @@
 
 <br/>
 <br/>
-<!-- https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif -->
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 
 <h3>🚀 About Me</h3> 
+<h4> I'm Amr Elsayed from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
 <!--
 Here are some ideas to get you started:
 
