@@ -18,9 +18,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
 ![Jira](https://img.shields.io/badge/-Jira-563D7C?style=for-the-badge&logo=Jira)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MYSQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
-![VUE.JS](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-e8392c?style=flat-square&logo=Laravel&logoColor=ffffff)
+![MYSQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
+![VUE.JS](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-e8392c?style=for-the-badge&logo=Laravel&logoColor=ffffff)
 
 ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mostafa.abdeltwab.9/)
